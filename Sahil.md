@@ -60,5 +60,11 @@ The Reddit thread discusses how Notepad on Windows 11 no longer prompts users to
 a feature previously available. Users express frustration,
 highlighting potential data loss risks and confusion, with some speculating it may be a bug or intentional change by Microsoft.
 
+PartC There are few sites with advanced setting of the window user interface.
+[Suggestion 4 your setting UI](https://answers.microsoft.com/en-us/windows/forum/all/suggestion-4-your-settings-ui-so-desired/f2a90f8c-db62-4c14-b162-cbbbb9a3d5a7)
+The page contains a user suggestion on improving Windows Settings UI.
+The suggestion emphasizes making settings more user-friendly and easier to navigate, particularly by refining the layout and enhancing visual elements for better usability.
+It reflects community feedback on improving the overall experience of the settings interface.
+
  
 
