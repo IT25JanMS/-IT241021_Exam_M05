@@ -40,5 +40,16 @@ Chandoo.org offers clear and practical guidance for Excel users.
 The article effectively addresses common formula issues, such as formulas displaying as text, providing easy-to-follow solutions.
 With helpful tips like adjusting cell formatting or using shortcuts, the site is a valuable resource for troubleshooting and improving Excel skills.
 
- I think most common mistake is(formatting Formulas cells as Text, preventing execution..
+ I think most common mistake is(formatting Formulas cells as Text, preventing execution)
+
+PartA. Researching Notepad save Prompt Issue?
+ 
+ Are you using the latest version of notepad?
+ 
+ Does you issue occur with all file types or just specific ones?
+ 
+ Are you closing notepad any windows using the X button,Alt+F4, or another method?
+ 
+ 
+ 
 
