@@ -24,6 +24,21 @@ People recommend reddit sites use for Excel Easy, chandoo and Leetcode for Excel
 > Basic Excel Troubleshotting techniquies.
 
 > Checking cell Formating.
+
 > Enabling automatic calculation
+
 > Using Ctrl + ~ to toggle Formula display
+
+There is website how people do mistakes while working on excel.
+[Detect Formulas errors in Excel](https://support.microsoft.com/en-us/office/detect-formula-errors-in-excel-3a8acca5-1d61-4702-80e0-99a36a2822c1)
+The website provides a guide on how to detect and troubleshoot formula errors in Excel.
+It offers solutions for common error types such as #DIV/0!, #VALUE!, and #REF!, helping users understand and correct mistakes in their spreadsheets.
+It's valuable for improving Excel accuracy and efficiency in data management.
+
+[Excel Formulas Showing as text text](https://chandoo.org/wp/excel-formulas-are-not-working/)
+Chandoo.org offers clear and practical guidance for Excel users.
+The article effectively addresses common formula issues, such as formulas displaying as text, providing easy-to-follow solutions.
+With helpful tips like adjusting cell formatting or using shortcuts, the site is a valuable resource for troubleshooting and improving Excel skills.
+
+ I think most common mistake is(formatting Formulas cells as Text, preventing execution..
 
