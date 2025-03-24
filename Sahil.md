@@ -50,6 +50,15 @@ PartA. Researching Notepad save Prompt Issue?
  
  Are you closing notepad any windows using the X button,Alt+F4, or another method?
  
- 
+[Website on Notepad 11](https://answers.microsoft.com/en-us/windows/forum/all/notepad-on-w11-asking-me-to-save-all-files-upon/d3df39bb-29f6-4faa-976c-8ba81879e9a8)
+The Microsoft Answers forum page offers a user-driven platform where people share solutions to common issues.
+In this specific thread, users discuss a problem with Notepad on Windows 11 prompting them to save all files upon closing.
+The responses are insightful, providing troubleshooting tips and solutions from fellow users.
+
+[SEcond website](https://www.reddit.com/r/sysadmin/comments/1fnkfui/notepad_on_windows_11_no_longer_prompts_you_to/)
+The Reddit thread discusses how Notepad on Windows 11 no longer prompts users to save changes when closing a document with unsaved edits,
+a feature previously available. Users express frustration,
+highlighting potential data loss risks and confusion, with some speculating it may be a bug or intentional change by Microsoft.
+
  
 
