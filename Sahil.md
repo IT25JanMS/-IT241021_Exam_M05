@@ -43,7 +43,7 @@ With helpful tips like adjusting cell formatting or using shortcuts, the site is
 
  I think most common mistake is(formatting Formulas cells as Text, preventing execution)
 
-#Question2
+# Question2
 PartA. Researching Notepad save Prompt Issue?
  
  Are you using the latest version of notepad?
